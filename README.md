@@ -1,7 +1,4 @@
 <h1>Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi"></h1>
-<div>
-  <img src="https://visitor-badge.glitch.me/badge?page_id=suardihaidar.suardihaidar" alt="visitor badge"/>
-</div>
 
 <p> I'am <b>Ardi</b>, currently working as a <b>Software Engineer</b> and focusing on <b>Frontend</b>. I am always open to collaborating on projects and innovative/disruptive ideas. </p>
 
